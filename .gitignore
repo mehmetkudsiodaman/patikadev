@@ -14,6 +14,8 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+*dotnet/csharp101/
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
