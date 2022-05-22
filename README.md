@@ -1,6 +1,6 @@
 # patika.dev
 I opened this repo for (Patika.dev) trainings.
-I'm following these repos right now.
+I'm following these patika right now.
 - Başlangıç Seviyesi .Net Core Patikası
 ---
 ### Prerequisites for learners
