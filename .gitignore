@@ -107,3 +107,4 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+dotnet/csharp101_codes/array_5_migratorybirds.cs
